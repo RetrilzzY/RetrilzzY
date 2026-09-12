@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retrilzzy&theme=github-dark&hide_border=true&days=14&custom_title=Contribution%20Graph%20%28last%2014%20days%29" width="600"/>
+  <img src="https://github-readme-activity-graph-six-gamma.vercel.app//graph?username=retrilzzy&theme=github-dark&hide_border=true&days=14&custom_title=Contribution%20Graph%20%28last%2014%20days%29" width="600"/>
 </p>
 
 <p align="center">

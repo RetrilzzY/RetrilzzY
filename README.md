@@ -9,7 +9,7 @@
 <h2 align="center">✨ Stats</h2>
 
 <p align="center">
-  <img src="https://git-streak.rzx.ovh/?user=retrilzzy&theme=github-dark-blue&hide_border=true&stroke=FFFFFF00" width="600"/>
+  <img src="https://github-readme-streak-stats-eosin-iota.vercel.app/?user=retrilzzy&theme=github-dark-blue&hide_border=true&stroke=FFFFFF00" width="600"/>
 </p>
 
 <p align="center">
